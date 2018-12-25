@@ -1,0 +1,139 @@
+[25-Aug-2018 19:47:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 71
+[25-Aug-2018 19:48:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 71
+[25-Aug-2018 19:51:42 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on null in /home/saiconcss123/public_html/bxpapi/application/controllers/Auth.php on line 107
+[25-Aug-2018 19:51:51 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on null in /home/saiconcss123/public_html/bxpapi/application/controllers/Auth.php on line 107
+[25-Aug-2018 19:51:52 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on null in /home/saiconcss123/public_html/bxpapi/application/controllers/Auth.php on line 107
+[25-Aug-2018 19:52:25 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on null in /home/saiconcss123/public_html/bxpapi/application/controllers/Auth.php on line 107
+[26-Aug-2018 23:46:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:46:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:46:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:46:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:46:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:47:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:47:46 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[26-Aug-2018 23:50:34 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:21:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:25:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:25:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:58:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:58:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 17:59:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:00:07 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:00:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:01:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:01:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:03:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:04:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:05:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:05:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:05:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:06:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:06:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:06:32 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[27-Aug-2018 18:08:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 76
+[28-Aug-2018 12:23:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 71
+[28-Aug-2018 16:26:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 78
+[28-Aug-2018 16:37:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 152
+[28-Aug-2018 16:39:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 153
+[28-Aug-2018 16:39:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 153
+[28-Aug-2018 16:41:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 78
+[28-Aug-2018 16:42:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 78
+[30-Aug-2018 01:30:23 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 35
+[30-Aug-2018 01:37:15 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 35
+[30-Aug-2018 01:37:24 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 35
+[30-Aug-2018 01:37:57 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 35
+[30-Aug-2018 17:12:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 80
+[30-Aug-2018 17:37:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 39
+[30-Aug-2018 17:39:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::get_array() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 39
+[30-Aug-2018 17:39:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::get_array() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 39
+[30-Aug-2018 18:02:27 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 37
+[30-Aug-2018 18:03:45 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 37
+[30-Aug-2018 18:10:04 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 38
+[30-Aug-2018 18:10:10 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 38
+[30-Aug-2018 18:11:30 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 39
+[30-Aug-2018 18:17:32 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 40
+[30-Aug-2018 18:18:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 41
+[30-Aug-2018 18:19:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 41
+[30-Aug-2018 18:23:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 45
+[30-Aug-2018 18:24:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 45
+[30-Aug-2018 18:24:48 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 45
+[30-Aug-2018 18:25:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 45
+[30-Aug-2018 18:26:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 93
+[30-Aug-2018 18:28:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 93
+[30-Aug-2018 18:29:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 93
+[30-Aug-2018 18:30:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 93
+[30-Aug-2018 18:31:22 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 93
+[30-Aug-2018 19:57:37 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 214
+[30-Aug-2018 22:10:57 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 129
+[31-Aug-2018 01:57:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 76
+[03-Sep-2018 15:15:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 126
+[03-Sep-2018 15:16:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 126
+[03-Sep-2018 15:36:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 225
+[03-Sep-2018 15:36:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 225
+[03-Sep-2018 16:33:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 225
+[04-Sep-2018 00:05:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 76
+[05-Sep-2018 00:34:02 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 136
+[05-Sep-2018 00:36:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 76
+[05-Sep-2018 01:19:59 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 82
+[05-Sep-2018 01:20:16 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 82
+[05-Sep-2018 15:19:05 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 136
+[05-Sep-2018 23:09:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 220
+[06-Sep-2018 01:33:38 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 107
+[06-Sep-2018 01:34:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 106
+[07-Sep-2018 17:01:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 120
+[07-Sep-2018 17:02:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 120
+[20-Sep-2018 16:28:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''index.php/league/get_all_leag' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 72
+[20-Sep-2018 16:28:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''index.php/league/get_all_leag' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 72
+[20-Sep-2018 16:29:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''&city=pune'' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 72
+[20-Sep-2018 16:49:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 124
+[21-Sep-2018 17:19:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 208
+[21-Sep-2018 17:19:34 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 208
+[23-Sep-2018 09:40:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<!DOCTYPE html><html xmlns="h' (T_ENCAPSED_AND_WHITESPACE) in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 189
+[23-Sep-2018 10:21:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:21:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:21:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:22:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:23:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:24:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 10:24:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 206
+[23-Sep-2018 11:32:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[23-Sep-2018 11:32:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[23-Sep-2018 22:32:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[24-Sep-2018 00:27:18 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 103
+[24-Sep-2018 00:30:30 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 103
+[24-Sep-2018 17:03:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 111
+[24-Sep-2018 17:03:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 111
+[24-Sep-2018 17:03:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 111
+[24-Sep-2018 17:04:17 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 111
+[24-Sep-2018 17:04:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 111
+[28-Sep-2018 00:24:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[28-Sep-2018 00:24:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[28-Sep-2018 00:36:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 261
+[28-Sep-2018 00:36:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 261
+[02-Oct-2018 00:23:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 261
+[02-Oct-2018 00:24:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 127
+[03-Oct-2018 15:28:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Tournament_model.php on line 128
+[03-Oct-2018 16:03:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:03:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:03:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:04:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:04:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:04:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:04:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 435
+[03-Oct-2018 16:28:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 108
+[03-Oct-2018 17:14:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 124
+[03-Oct-2018 17:14:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 124
+[06-Oct-2018 14:08:54 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 66
+[06-Oct-2018 14:12:12 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 66
+[06-Oct-2018 14:13:01 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 66
+[06-Oct-2018 14:15:18 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 66
+[06-Oct-2018 14:15:20 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/Auth_model.php on line 66
+[08-Oct-2018 13:36:39 Asia/Jakarta] Stripe Notice: Undefined property of Stripe\Charge instance: body
+[08-Oct-2018 15:42:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 183
+[08-Oct-2018 17:11:19 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/League_model.php on line 335
+[11-Oct-2018 14:55:13 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 91
+[11-Oct-2018 14:55:50 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 91
+[11-Oct-2018 14:56:28 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 91
+[11-Oct-2018 14:56:31 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/bxpapi/application/models/User_model.php on line 91
+[19-Dec-2018 18:39:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/saiconcss123/public_html/synk/application/models/User_model.php on line 26
+[19-Dec-2018 18:48:13 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/saiconcss123/public_html/synk/application/models/User_model.php on line 99
