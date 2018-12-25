@@ -10,7 +10,6 @@ class User extends CI_Controller {
 		if($method != 'GET'){
 			json_output(400,array('status' => 400,'message' => 'Bad request.'));
 		} else {
-
 			$this->load->model('user_model');
 			$check_auth_client =$this->user_model->check_auth_client();
 			 
